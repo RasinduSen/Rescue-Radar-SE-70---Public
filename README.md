@@ -47,5 +47,13 @@ Features
 
  Contributing
 
-Contributions are welcome! Please fork this repository and submit a pull request with your enhancements.
+### 🛠️ The Development Team
+This application was co-developed by a team of 5 students who collaborated across the full stack on design, implementation, and feature development:
+* **Rasindu** (@RasinduSen)
+* **Dhananjaya** (@DhananjayaDilz)
+* **Shylan**
+* **Kaushalya**
+* **Dinil**
+*Note: The original collaborative workspace remains securely stored in a private upstream repository.*
+
 
